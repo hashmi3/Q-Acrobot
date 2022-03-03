@@ -4,7 +4,7 @@ CLI-Usage: ./acrobat.py [fast/slow] [Name of file to fill Q-table]
 
 ![](./gif/acrbot.mp4)
 
-### CLI-Usage details about sys.argv
+### CLI-Args details
 
 sys.argv[1] : is either 'slow' or 'fast' for running with or without graphics respectively.
 
