@@ -6,7 +6,7 @@ CLI-Usage: ./acrobat.py [fast/slow] [Name of file to fill Q-table]
 
 ### CLI-Usage details about sys.argv
 
-sys.argv[1] : can be either 'slow' or 'fast' for running with or without grapics respectively.
+sys.argv[1] : is either 'slow' or 'fast' for running with or without graphics respectively.
 
 sys.argv[2] : if this argument is omitted the game starts with a fresh version of Q-table where all values are initialized to 0.5.
             : Else Q-table is filled with the keys values pair from the file mentioned here. 
